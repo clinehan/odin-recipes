@@ -2,4 +2,10 @@
 
 * {
     font-family: "Arial", "Verdana", sans-serif;
+    color: #213343;
+    background-color: #F6F9FC;
+}
+
+.link {
+    color: #006;
 }
