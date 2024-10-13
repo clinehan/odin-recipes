@@ -9,3 +9,42 @@
 .link {
     color: #006;
 }
+
+.subheader {
+    font-style: italic;
+}
+
+.recipeHighlights {
+    display: inline-flex;
+}
+
+.recipe {
+    border: 1px solid #213343;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 8px;
+    text-align: center;
+    
+}
+
+.recipe p {
+    font-size: 12px;
+}
+
+.recipe h5 {
+    margin: 5px auto;
+}
+
+button {
+    background-color: #213343;
+    color: #F6F9FC;
+    border: none;
+    border-radius: 3px;
+}
+
+button a.link {
+    text-decoration: none;
+    background-color:inherit;
+    color: inherit;
+    font-size: 11px;
+  }
