@@ -18,7 +18,7 @@
     display: inline-flex;
 }
 
-.recipe {
+.recipeCard {
     border: 1px solid #213343;
     border-radius: 5px;
     padding: 8px;
@@ -27,11 +27,11 @@
     
 }
 
-.recipe p {
+.recipeCard p {
     font-size: 12px;
 }
 
-.recipe h5 {
+.recipeCard h5 {
     margin: 5px auto;
 }
 
@@ -42,7 +42,7 @@ button {
     border-radius: 3px;
 }
 
-button a.link {
+button a.cta {
     text-decoration: none;
     background-color:inherit;
     color: inherit;
